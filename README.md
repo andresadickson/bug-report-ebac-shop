@@ -26,7 +26,8 @@ O objetivo do exercício foi explorar o site de e-commerce de teste da EBAC e id
 - Sistema operacional: Windows 10  
 - Acesso via desktop  
 
-## 📄 Documento
+## Conteúdo
 
-O relatório completo está disponível no arquivo PDF neste repositório.
+- Relatório de bugs encontrados no sistema
+- Relatório de melhorias sugeridas
 
