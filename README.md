@@ -10,7 +10,7 @@ O objetivo do exercício foi explorar o site de e-commerce de teste da EBAC e id
 
 - Navegação pelo site de teste  
 - Identificação de erros visuais e de comportamento  
-- Registro de 2 bugs encontrados  
+- Registro de 2 bugs encontrados e 2 melhorias.
 - Descrição dos passos para reproduzir cada problema  
 - Inclusão de evidências (prints com marcações)
 
